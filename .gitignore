@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+CommandPattern/obj
+CommandPattern/.vs
+CommandPattern/bin
